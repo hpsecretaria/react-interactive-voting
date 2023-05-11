@@ -1,0 +1,14 @@
+.main {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.button {
+    border-radius: 6px;
+    background-color: #e6c635;
+    align-self: center;
+    padding: 14px 18px; 
+    cursor: pointer;
+}
